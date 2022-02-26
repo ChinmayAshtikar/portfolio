@@ -1,16 +1,20 @@
-### Hi there 👋
+# Portfolio Design
 
-<!--
-**ChinmayAshtikar/chinmayashtikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 10 Bootstrap Components: 
 
-Here are some ideas to get you started:
+1. Nav
+2. Nav bar
+3. Collapse
+4. Form element
+5. Input-Group
+6. Card
+7. Carousel
+8. Tool Tip
+9. Progress bar
+10. Images
+11. Thumbnail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Setup:
+- Open the index.html file on vscode
+- Run the application with live server (VS Code extension)
