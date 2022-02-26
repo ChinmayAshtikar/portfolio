@@ -1,0 +1,1 @@
+Part A: (Individual Assignment)Creation of professional portfolio using minimum 10 bootstrap componentsCreated a professional portfolio using HTML, CSS, Bootstrap and JS.Bootstrap Components Used:1. Nav2. Nav bar3. Collapse4. Form element5. Input-Group6. Card7. Carousel8. Tool Tip9. Progress bar10. Images11. Thumbnail
