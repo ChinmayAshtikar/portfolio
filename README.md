@@ -5,4 +5,4 @@ Setup:
 - Run the application with live server (VS Code extension)
 
 Hosted on:
-https://chinmayashtikar.github.io/chinmayashtikar/
+https://chinmayashtikar.github.io/portfolio/
